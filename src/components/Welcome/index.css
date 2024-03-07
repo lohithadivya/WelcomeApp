@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree Serif';
+}
+.heading {
+  color: #f0bb03;
+  font-size: 40px;
+}
+.message {
+  color: #ffffff;
+  font-size: 32px;
+}
+.button {
+  height: 38px;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
